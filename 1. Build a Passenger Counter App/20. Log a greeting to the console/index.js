@@ -4,4 +4,10 @@
 // Create a third variable, myGreeting, that contatenates the two strings
 // Log myGreeting to the console
 
+let myname = "Yogesh.";
 
+let greeting = "Hi, my name is "
+
+let myGreetings = greeting + myname ;
+
+console.log(myGreetings);
